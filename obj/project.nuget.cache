@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0S8zNNoAgdF4xj0ZqwMRjcKJZzoDtzDBcn/q6cVhQmt7LO/j2W0AyzUv1n9x5KpF8gTNhLH4D+ggxnjpuB0KEA==",
+  "dgSpecHash": "bvZUfj9G7ijYTogXfRphCHn8sIJ1USxEhsL1wP2HEzqsT95RYQMfW58J6uU6tRsaJcqncxqgVMJ5FSvDjxEVHQ==",
   "success": true,
-  "projectFilePath": "/home/denczh/Source/Repos/HelloWorld/HelloWorld.csproj",
+  "projectFilePath": "C:\\Users\\dencz\\source\\repos\\HelloWorld\\HelloWorld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
